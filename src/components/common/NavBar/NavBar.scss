@@ -1,0 +1,89 @@
+@import "../../../utils/variables.scss";
+
+.navbar-main,
+.footer-container {
+  text-align: center;
+  background-color: $primary-color;
+  margin: 0.5%;
+  border-radius: 10px;
+  font-size: 1.5vw;
+  padding: 1vw;
+}
+
+.footer-main {
+  padding-bottom: 0.1vw;
+}
+
+.app-name-container {
+  margin-right: 5vw;
+}
+
+.nav-element {
+  margin-right: 2vw;
+}
+
+.footer-container {
+  .nav-element {
+    margin-left: 4.85vw;
+    margin-right: 4.85vw;
+    text-decoration: underline;
+    font-size: 1.25vw;
+  }
+}
+
+.combined-app-logo {
+  width: 15vw;
+  border-radius: 10px;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.copyright-container {
+  margin-top: 2vw;
+
+  .copyright-info {
+    color: $secondary-text-color;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 1.25vw;
+  }
+}
+
+.sponsers-container {
+  color: $secondary-text-color;
+  font-size: 1vw;
+  margin-left: 3vw;
+  position: relative;
+
+  .sponsers {
+    position: absolute;
+    top: 20%;
+
+    .espn,
+    .sky-sport {
+      border-radius: 5px;
+    }
+  }
+}
+
+.subnav-main {
+  text-align: center;
+  background-color: $primary-color;
+  border-radius: 10px;
+  font-size: 1.25vw;
+
+  .nav-element {
+    margin: 0;
+
+    a {
+      display: block;
+      font-weight: bold;
+      color: whitesmoke;
+      height: inherit;
+      padding-bottom: 0.25vw;
+      padding-top: 0.25vw;
+      border-radius: 10px;
+    }
+  }
+}

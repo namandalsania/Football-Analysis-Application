@@ -1,0 +1,105 @@
+@import "../../../utils/variables.scss";
+.score-card-main,
+.score-card-large-main,
+.transfer-card-main {
+  margin-left: 2vw;
+  margin-right: 2vw;
+
+  h3 {
+    color: $secondary-text-color;
+    text-align: center;
+  }
+
+  .team-name,
+  .score {
+    font-size: 1.5vw;
+  }
+
+  .score {
+    font-weight: bold;
+    margin-left: 0.35vw;
+    margin-right: 0.35vw;
+    text-align: center;
+  }
+
+  .arrow-icon {
+    margin-right: 0;
+    margin-left: 0;
+  }
+
+  .team-name-left {
+    text-align: right;
+    margin-left: 0;
+    margin-right: 1vw;
+    padding-left: 1vw;
+  }
+
+  .team-name-right {
+    text-align: left;
+    margin-right: 0;
+    margin-left: 1vw;
+    padding-right: 1vw;
+  }
+}
+
+.score-card-large-main {
+  margin-bottom: 2vw;
+
+  h3 {
+    font-size: 1.25vw;
+    margin-bottom: 1vw;
+  }
+
+  .game-status {
+    text-align: center;
+    font-size: 1.25vw;
+    padding: 0.5vw;
+  }
+
+  .game-result-special {
+    text-align: center;
+    font-size: 1vw;
+  }
+
+  .team-scorers {
+    font-size: 1vw;
+    margin-top: 1vw;
+    margin-bottom: 0.5vw;
+
+    .home-team-scorers {
+      text-align: right;
+      margin-left: 1.75vw;
+    }
+
+    .away-team-scorers {
+      text-align: left;
+      margin-left: 5vw;
+    }
+  }
+}
+
+.score-card-main .game-status {
+  margin-left: 0.35vw;
+}
+
+.team-name,
+.arrow-icon,
+.score {
+  font-size: 1.25vw;
+  margin-left: 0.5vw;
+  margin-top: auto;
+  margin-bottom: auto;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.team-info-top {
+  margin-bottom: 0.5vw;
+}
+
+.game-status {
+  font-size: 0.8vw;
+  margin-top: auto;
+  margin-bottom: auto;
+}

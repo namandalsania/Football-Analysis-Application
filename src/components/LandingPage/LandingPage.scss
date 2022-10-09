@@ -1,0 +1,80 @@
+@import "../../utils/variables.scss";
+
+.landing-page-main,
+.news-page-main,
+.scores-page-main,
+.document-page-main,
+.contact-page-main,
+.stats-page-main {
+  margin: 0.5%;
+  border-radius: 10px;
+  padding: 1vw;
+  color: $secondary-text-color;
+  min-height: 70vh;
+
+  h2 {
+    text-align: center;
+    color: $secondary-text-color;
+    font-size: 1.5vw;
+  }
+}
+
+.stats-page-main {
+  padding-top: 0;
+}
+
+.landing-page-main {
+  .transfers-section-main {
+    margin-top: 0;
+
+    .transfer-card-main {
+      margin-top: 0;
+      margin-left: 0;
+      margin-right: 0;
+      outline: none;
+      border: none;
+      transition: all 0.2s ease-in-out;
+
+      &:active {
+        border-style: outset;
+        border: none;
+      }
+
+      &:hover {
+        cursor: pointer;
+        transform: scale(1.05);
+      }
+    }
+  }
+}
+
+.news-page-main,
+.scores-page-main,
+.document-page-main,
+.contact-page-main {
+  padding-left: 5vw;
+  padding-right: 5vw;
+
+  .news-card-main,
+  .scores-card-main,
+  .contact-card-main {
+    margin-left: 2vw;
+    margin-right: 2vw;
+  }
+
+  .document {
+    display: block;
+    width: 60vw;
+    height: 40vw;
+    margin-top: 1.5vw;
+    margin-right: auto;
+    margin-left: auto;
+    border-radius: 10px;
+    border: 3px solid black;
+  }
+}
+
+.contact-card-main {
+  margin-top: 0.5vw;
+  margin-bottom: 2vw;
+}

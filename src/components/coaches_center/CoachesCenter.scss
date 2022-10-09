@@ -1,0 +1,95 @@
+@import "../../utils/variables.scss";
+
+.coaches-center-main {
+  padding: 0 2vw;
+  min-height: 70vh;
+
+  .subnav-main {
+    width: 35vw;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.xg-main,
+.player-similarity-main,
+.market-value-main {
+  img {
+    border-radius: 10px;
+    border: 3px solid black;
+    margin-bottom: 1.5vw;
+  }
+
+  h2 {
+    color: $secondary-text-color;
+    font-size: 1.5vw;
+    text-align: center;
+    margin-top: 1.5vw;
+    margin-bottom: 1vw;
+  }
+}
+
+.xg-result {
+  display: block;
+  width: fit-content;
+  margin: auto;
+  margin-top: 2vw;
+
+  .td,
+  th,
+  tr {
+    background-color: rgb(31, 31, 31);
+  }
+}
+
+.player-similarity-main {
+  .search-bar {
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .similarity-result {
+    margin-top: 2vw;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.35vw;
+    font-weight: 600;
+    font-style: italic;
+    padding: 1vw;
+    background-color: rgb(15, 15, 53);
+    width: fit-content;
+    border-radius: 20px;
+    filter: drop-shadow(5px 5px 2px #2b2b2b);
+  }
+
+  .model-description {
+    width: 50vw;
+    text-align: justify;
+    background-color: #072227;
+    border-radius: 10px;
+    padding: 1vw 2vw;
+    font-size: 1vw;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2vw;
+    font-weight: 600;
+    filter: drop-shadow(5px 5px 2px #2b2b2b);
+  }
+}
+
+.market-value-main {
+  padding: 0 2vw;
+  .mv-figures-container {
+    margin-top: 2vw;
+
+    .mv-figure-caption {
+      width: 32vw;
+      padding-left: 0.5vw;
+      padding-right: 0.5vw;
+      color: whitesmoke;
+      font-size: 1vw;
+      text-align: justify;
+      margin-bottom: 4vw;
+    }
+  }
+}

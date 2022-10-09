@@ -1,0 +1,98 @@
+@import "../../../utils/variables.scss";
+
+.leagues-section-main {
+  padding: 1vw 2vw;
+
+  .league-card-main {
+    background-color: $primary-color;
+    padding: 1vw;
+    border-radius: 10px;
+
+    .team-name {
+      text-align: left;
+      .team-logo {
+        background-color: white;
+        border-radius: 50%;
+        padding: 0.35vw;
+        margin-right: 0.5vw;
+      }
+
+      .team-name-container {
+        vertical-align: middle;
+      }
+    }
+  }
+
+  th,
+  td {
+    border: 2px solid black;
+    padding: 0.5vw 1vw;
+    text-align: center;
+    font-size: 1.25vw;
+    font-weight: 600;
+
+    &.premier-league {
+      background-color: #711a75;
+    }
+
+    &.bundesliga {
+      background-color: #b33030;
+    }
+
+    &.la-liga {
+      background-color: #323643;
+    }
+
+    &.serie-a {
+      background-color: #11468f;
+    }
+
+    &.ligue-1 {
+      background-color: #041562;
+    }
+  }
+
+  .league-table,
+  .stats-table {
+    border-collapse: separate;
+    margin-left: auto;
+    margin-right: auto;
+
+    .table-header {
+      text-decoration: underline;
+    }
+
+    tr:first-child td:first-child {
+      border-top-left-radius: 10px;
+    }
+
+    tr:first-child td:last-child {
+      border-top-right-radius: 10px;
+    }
+
+    tr:last-child td:first-child {
+      border-bottom-left-radius: 10px;
+    }
+
+    tr:last-child td:last-child {
+      border-bottom-right-radius: 10px;
+    }
+  }
+
+  .stats-tables-container {
+    display: block;
+    overflow: auto;
+    margin-top: 3vw;
+    margin-bottom: 1vw;
+
+    .stats-table-container {
+      float: left;
+      width: 50%;
+    }
+
+    .stats-table {
+      margin-right: auto;
+      margin-left: auto;
+    }
+  }
+}

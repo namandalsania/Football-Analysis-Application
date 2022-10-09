@@ -1,0 +1,13 @@
+@import "../../../utils/variables.scss";
+
+.dropdown-menu {
+  color: $primary-color;
+  width: 15vw;
+  font-size: 1vw;
+  font-weight: bold;
+  margin-bottom: 1vw;
+  margin-top: 1vw;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 10px;
+}
