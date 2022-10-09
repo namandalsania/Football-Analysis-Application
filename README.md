@@ -2,47 +2,47 @@
 
 Working app snaps shared below:
 
-##Home
+## Home
 
 ![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/Home.png)
 
 
-##League Stats
+## League Stats
 
 ![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/League_Stats(1).png)
 
 ![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/League_Stats(2).png)
 
 
-##Live Score
+## Live Score
 
 ![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/Live_Scores.png)
 
 
-##ML Model
+## ML Model
 
 ![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/ML_Model.png)
 
 
-##Player Similarity
+## Player Similarity
 
 ![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/Player_Similarity.png)
 
 
-##Player Stats
+## Player Stats
 
 ![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/Player_Stats(1).png)
 
 ![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/Player_Stats(2).png)
 
 
-##World Cup
+## World Cup
 
 ![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/WC(1).png)
 
 ![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/WC(2).png)
 
 
-##XG
+## XG
 
 ![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/XG.png)
