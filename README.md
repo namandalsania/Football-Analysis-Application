@@ -49,8 +49,8 @@ Working app snaps shared below:
 
 
 ## Description
--A football analysis and prediction app, created using ReactJS and Flask.
--The application uses ML and AI to predict predict team and player statistics as well as attributes.
+- A football analysis and prediction app, created using ReactJS and Flask.
+- The application uses ML and AI to predict predict team and player statistics as well as attributes.
 
 
 ## Server :
