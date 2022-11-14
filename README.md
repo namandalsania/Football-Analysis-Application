@@ -1,4 +1,4 @@
-# Football Statistics
+# Football Analysis Application
 
 Working app snaps shared below:
 
