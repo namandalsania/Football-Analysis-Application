@@ -1,6 +1,6 @@
 # Football Analysis Application
 
-Working app snaps shared below:
+Snapshots:
 
 ## Home
 
