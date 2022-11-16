@@ -4,48 +4,48 @@ Working app snaps shared below:
 
 ## Home
 
-![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/Home.png)
+![](https://github.com/namandalsania/Football-Analysis-Application/blob/master/Home.png?raw=true)
 
 
 ## League Stats
 
-![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/League_Stats(1).png)
+![](https://github.com/namandalsania/Football-Analysis-Application/blob/master/League_Stats-1.png?raw=true)
 
-![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/League_Stats(2).png)
+![](https://github.com/namandalsania/Football-Analysis-Application/blob/master/League_Stats-2.png?raw=true)
 
 
 ## Live Score
 
-![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/Live_Scores.png)
+![](https://github.com/namandalsania/Football-Analysis-Application/blob/master/Live_Scores.png?raw=true)
 
 
 ## ML Model
 
-![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/ML_Model.png)
+![](https://github.com/namandalsania/Football-Analysis-Application/blob/master/ML_Model.png?raw=true)
 
 
 ## Player Similarity
 
-![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/Player_Similarity.png)
+![](https://github.com/namandalsania/Football-Analysis-Application/blob/master/Player_Similarity.png?raw=true)
 
 
 ## Player Stats
 
-![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/Player_Stats(1).png)
+![](https://github.com/namandalsania/Football-Analysis-Application/blob/master/Player_Stats-1.png?raw=true)
 
-![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/Player_Stats(2).png)
+![](https://github.com/namandalsania/Football-Analysis-Application/blob/master/Player_Stats-2.png?raw=true)
 
 
 ## World Cup
 
-![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/WC(1).png)
+![](https://github.com/namandalsania/Football-Analysis-Application/blob/master/WC-1.png?raw=true)
 
-![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/WC(2).png)
+![](https://github.com/namandalsania/Football-Analysis-Application/blob/master/WC-2.png?raw=true)
 
 
 ## XG
 
-![](https://raw.githubusercontent.com/shauryarawat1/footstats/master/screenshots/XG.png)
+![](https://github.com/namandalsania/Football-Analysis-Application/blob/master/XG.png?raw=true)
 
 
 ## Description
